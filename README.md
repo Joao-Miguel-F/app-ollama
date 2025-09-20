@@ -1,6 +1,6 @@
 # app-ollama
 
-Baixe o Ollama (qualquer modelo)
+Baixe o Ollama (qualquer modelo) em http://ollama.eastus.cloudapp.azure.com:11434/
 
 Rode o modelo baixado em um prompt de comando em localhost
 
